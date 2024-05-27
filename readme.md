@@ -2,7 +2,7 @@
 
 - Use Python SDK from OKX `pip install python-okx`
 - Run `get_data.ipynb`
-
+- Source API `https://www.okx.com/docs-v5/en/#order-book-trading-market-data-get-candlesticks-history`
 
 
 # API Details
